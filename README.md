@@ -189,4 +189,4 @@ Open-source project. Feel free to use or modify it for personal projects.
 
 ---
 
-*nai™*
+*nai*
